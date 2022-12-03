@@ -1,0 +1,4 @@
+spring:
+ profiles:
+    active:
+    - dev      # spring profile dev 환경으로 실행하겠다.
